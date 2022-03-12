@@ -1,0 +1,1 @@
+traceroute to 2620:1ec:a92::156 (2620:1ec:a92::156), 30 hops max, 80 byte packets

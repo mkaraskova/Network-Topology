@@ -1,0 +1,1 @@
+traceroute to 2a02:26f0:b7:499::356e (2a02:26f0:b7:499::356e), 30 hops max, 80 byte packets

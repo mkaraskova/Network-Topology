@@ -1,0 +1,1 @@
+traceroute to 2a05:d018:76c:b683:f711:f0cf:5cc7:b815 (2a05:d018:76c:b683:f711:f0cf:5cc7:b815), 30 hops max, 80 byte packets

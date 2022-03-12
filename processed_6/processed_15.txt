@@ -1,0 +1,1 @@
+traceroute to 2001:67c:4e8:1033:6:100:0:a (2001:67c:4e8:1033:6:100:0:a), 30 hops max, 80 byte packets

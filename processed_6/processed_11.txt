@@ -1,0 +1,1 @@
+traceroute to 2a02:26f0:ec:2a8::180c (2a02:26f0:ec:2a8::180c), 30 hops max, 80 byte packets
